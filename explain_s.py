@@ -3,25 +3,11 @@ import json
 # import random
 from itertools import cycle
 # Gemini API KEYs ----------------------------------------------
-API_KEYS = ["AIzaSyAJiD4iD9TcLeFfRwDILNn_TC6B59kcgYE",
-            "AIzaSyDWc4srzdUPHMsyPUstpYoS80hEKGaHoxw",
-            "AIzaSyBt7Kwemd4STbnid3sQ_eRBbCONJ0ls0rc",
-            "AIzaSyC1xocoL8eurJRMwMOu44v-vXg3uwCBs0s"
+API_KEYS = ["",
+            ""
             ]
-
-# "AIzaSyCqUfR7V9V0Q1wysfRFRuv3ox2N188ZOnM",
-# "AIzaSyBpCPUhxoxGauQX33x0nfpcMLFz0uZjUAI",
-# ""
-# "AIzaSyDkYWbO0kj2oIikqcuYyafT4CKZBKJ2cB8",
-# "AIzaSyCfpQp453XtoB9aU4FRNb17Uyn7Lw3HKaU"
 # -----------------------------------------------------------
 
-
-# Old target list
-# target = [
-#     "use", "using", "used", "adopted", "deployed", "running on",
-#     "built with", "powered by", "partner", "integration", "migrated to"
-# ]
 # New target list
 target = [
     # Technology usage
